@@ -1,0 +1,5 @@
+#samisbad
+
+notes for gitHub
+
+git config --system http.sslcainfo /mingw64/ssl/certs/cs-bundle.crt
