@@ -17,3 +17,5 @@ $git config --global http.sslVerify false
 $git push origin master
 
 $git config --global http.ssl/Verify false
+
+$git pull origin master
