@@ -15,3 +15,5 @@ $git remote add origin *insert gitHub project (https://...)*
 $git config --global http.sslVerify false
 
 $git push origin master
+
+$git config --global http.ssl/Verify false
