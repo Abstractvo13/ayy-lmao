@@ -12,6 +12,8 @@ $git commit -m "initial commit"
 
 $git remote add origin *insert gitHub project (https://...)*
 
+$git clone *insert project*
+
 $git config --global http.sslVerify false
 
 $git push origin master
